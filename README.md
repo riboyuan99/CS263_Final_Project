@@ -35,7 +35,7 @@ One data point in output files may look like this:
 
 ## Method
 
-The flowchart below outlines the high-level method for this project.
+The flowchart below outlines the high-level method for the project.
 ![Alt Text](https://github.com/riboyuan99/CS263_Final_Project/blob/main/263_Method_Graph.png)
 
 
